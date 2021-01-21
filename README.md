@@ -10,7 +10,7 @@
 >npm run server-dev in server directory 
 >ng serve --open in angular directory
 
-## Teck Stack
+## Stack
 > we are using MEAN stack:
 - mongoDB//Atlas
 - express
